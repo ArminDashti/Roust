@@ -1,0 +1,50 @@
+[
+  {
+    "target": "cidr",
+    "target-value": "10.0.0.0/8",
+    "destination": "ip",
+    "destination-value": "10.20.9.254"
+  },
+  {
+    "target": "cidr",
+    "target-value": "172.16.0.0/12",
+    "destination": "ip",
+    "destination-value": "10.20.9.254"
+  },
+  {
+    "target": "cidr",
+    "target-value": "192.168.0.0/16",
+    "destination": "ip",
+    "destination-value": "10.20.9.254"
+  },
+  {
+    "target": "ip",
+    "target-value": "188.40.167.81",
+    "destination": "ip",
+    "destination-value": "10.20.9.254"
+  },
+  {
+    "target": "hostname",
+    "target-value": "erp.dpdc.co",
+    "destination": "ip",
+    "destination-value": "10.20.9.254"
+  },
+  {
+    "target": "ip",
+    "target-value": "10.10.17.102",
+    "destination": "ip",
+    "destination-value": "10.20.9.254"
+  },
+  {
+    "target": "ip",
+    "target-value": "10.10.12.52",
+    "destination": "ip",
+    "destination-value": "10.20.9.254"
+  },
+  {
+    "target": "hostname",
+    "target-value": "office.ondpline.com",
+    "destination": "ip",
+    "destination-value": "10.20.9.254"
+  }
+]

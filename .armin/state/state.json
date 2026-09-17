@@ -1,0 +1,13 @@
+{
+  "stack_name": "roust",
+  "service_name": "Roust",
+  "installed": true,
+  "ports": {
+    "api": 8787,
+    "webui": 5173
+  },
+  "install_dir": "C:\\Users\\armin\\GitHub\\roust\\Roust",
+  "binary_path": "C:\\Users\\armin\\GitHub\\roust\\Roust\\roust.exe",
+  "api_binary": "C:\\Users\\armin\\GitHub\\roust\\Roust\\roust-api.exe",
+  "updated_at": "2026-09-14T09:35:35.3511989+03:30"
+}

@@ -1,0 +1,11 @@
+
+  [32m[1mVITE[22m v6.4.3[39m  [2mready in [0m[1m621[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m10:42:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/style.css, /src/App.vue, /src/pages/StatusPage.vue, /src/pages/RoutesPage.vue, /src/pages/SettingsPage.vue, /src/pages/DnsExceptionsPage.vue, /src/pages/PingPage.vue, /src/pages/AppBindsPage.vue, /@fs/C:\Users\armin\GitHub\roust\roust-webui\src\components\RouteFormDialog.vue, /@fs/C:\Users\armin\GitHub\roust\roust-webui\src\components\StatusPanel.vue[22m
+[2m10:42:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/style.css, /src/App.vue, /src/pages/StatusPage.vue, /src/pages/RoutesPage.vue, /src/pages/SettingsPage.vue, /src/pages/DnsExceptionsPage.vue, /src/pages/PingPage.vue, /src/pages/AppBindsPage.vue, /@fs/C:\Users\armin\GitHub\roust\roust-webui\src\components\RouteFormDialog.vue, /@fs/C:\Users\armin\GitHub\roust\roust-webui\src\components\StatusPanel.vue[22m
+[2m10:42:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router.ts[22m
+[2m10:42:40 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.vue, /src/style.css[22m
+[2m10:42:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/router.ts[22m
+[2m11:08:05 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\armin\GitHub\roust\roust-webui\src\pages\HostOverridesPage.vue, /src/style.css[22m

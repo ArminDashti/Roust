@@ -1,0 +1,14 @@
+[
+  {
+    "namespace": "erp.dpdc.co",
+    "dns-server": "10.10.17.101"
+  },
+  {
+    "namespace": "ondpline.com",
+    "dns-server": "217.218.127.127"
+  },
+  {
+    "namespace": "office.ondpline.com",
+    "dns-server": "10.10.17.101"
+  }
+]
