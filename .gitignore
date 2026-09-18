@@ -99,3 +99,27 @@ roust-api/target/release/deps/libwindows-9e93b1d53bd3b0a5.rlib
 roust-api/target/release/deps/libwindows-9e93b1d53bd3b0a5.rmeta
 
 # === commit-push-to-github large files (auto) ===
+
+# commit-push-to-github: large files (>5MB) auto-ignored
+roust-api/target/debug/roust.exe
+roust-api/target/debug/roust.pdb
+roust-api/target/debug/deps/libroust-660af26eb94af8b7.rlib
+roust-api/target/debug/deps/libwindows-1022856380d08cdf.rmeta
+roust-api/target/debug/deps/libwindows-1f1f8efe86035aca.rlib
+roust-api/target/debug/deps/libwindows-1f1f8efe86035aca.rmeta
+roust-api/target/debug/deps/roust-c209ab5f20fb39e2.pdb
+roust-api/target/debug/deps/roust.exe
+roust-api/target/debug/deps/roust.pdb
+roust-api/target/debug/incremental/roust-12fayjwh0i5sv/s-hmei7l2o9o-0kaunpd-2r67pncym0x8laq7bv9geoifn/dep-graph.bin
+roust-api/target/debug/incremental/roust-12fayjwh0i5sv/s-hmei7l2o9o-0kaunpd-2r67pncym0x8laq7bv9geoifn/eogu0fa71rhnnzludla2vqg1s.o
+roust-api/target/debug/incremental/roust-12fayjwh0i5sv/s-hmei7l2o9o-0kaunpd-2r67pncym0x8laq7bv9geoifn/query-cache.bin
+roust-api/target/debug/incremental/roust-12fayjwh0i5sv/s-hmeia453tj-0kqf1tn-abnh1fa6ciis4aioczzwqnugd/dep-graph.bin
+roust-api/target/debug/incremental/roust-12fayjwh0i5sv/s-hmeia453tj-0kqf1tn-abnh1fa6ciis4aioczzwqnugd/eogu0fa71rhnnzludla2vqg1s.o
+roust-api/target/debug/incremental/roust-12fayjwh0i5sv/s-hmeia453tj-0kqf1tn-abnh1fa6ciis4aioczzwqnugd/query-cache.bin
+roust-api/target/debug/incremental/roust-1dps4wb3mui98/s-hmei9ln83i-0fsqj8s-a418am4fltrj09edgnmw3hzsi/37ixiqx8alwkmy558jx0px1f7.o
+roust-api/target/debug/incremental/roust-1dps4wb3mui98/s-hmei9ln83i-0fsqj8s-a418am4fltrj09edgnmw3hzsi/dep-graph.bin
+roust-api/target/debug/incremental/roust-1dps4wb3mui98/s-hmei9ln83i-0fsqj8s-a418am4fltrj09edgnmw3hzsi/query-cache.bin
+roust-api/target/debug/incremental/roust-1dps4wb3mui98/s-hmeia79xik-1xeolnh-5ohji69w9j65wn8xtffb0va4e/37ixiqx8alwkmy558jx0px1f7.o
+roust-api/target/debug/incremental/roust-1dps4wb3mui98/s-hmeia79xik-1xeolnh-5ohji69w9j65wn8xtffb0va4e/dep-graph.bin
+roust-api/target/debug/incremental/roust-1dps4wb3mui98/s-hmeia79xik-1xeolnh-5ohji69w9j65wn8xtffb0va4e/query-cache.bin
+roust-api/target/debug/incremental/roust-1s43cg37vyags/s-hmei8051ff-1q4xv7i-7907kq9ur1w5vnntgdid4w3r7/dep-graph.bin
