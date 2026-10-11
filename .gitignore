@@ -148,3 +148,7 @@ graphify-out/
 .gitnexus/
 !.env.example
 /.cursor/skills/caveman-setup/SKILL.md
+
+# keep source files
+!**/src/bin/
+!**/src/bin/**
