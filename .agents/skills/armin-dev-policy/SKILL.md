@@ -1,21 +1,15 @@
 ---
 name: armin-dev-policy
-description: >
-  Unified mandatory development policy for this project. Apply on every feature,
-  fix, refactor, review, naming choice, version bump, architecture/DB decision,
-  anti-pattern check, signing/release step, and About Me / WebUI standards work.
-  Merges detect-anti-pattern, digital-signature, software-architecture,
-  software-engineer-principles, software-versioning, variable-naming,
-  armin-principles-database, armin-principles-software-engineering, and
-  database-architecture into one skill.
+description: >-
+  Unified mandatory development policy for this project. Apply on every feature, fix, refactor, review, naming choice, version bump, architecture/DB decision, anti-pattern check, signing/release step, and About Me / WebUI standards work. Merges detect-anti-pattern, digital-signature, software-architecture, software-engineer-principles, software-versioning, variable-naming, armin-principles-database, armin-principles-software-engineering, and database-architecture into one skill.
 disable-model-invocation: false
 metadata:
-  version: "2.0.0"
-  author: Armin Dashti
-  category: policy
+  version: 2.0.0
+  author: "Armin Dashti"
   tags: [policy, architecture, naming, versioning, database, anti-pattern, unified]
+  last_updated: "2026-10-12 09:36:50"
+  uuid: 43291995-4b8c-4c31-991d-e318103c24f5
 ---
-
 # Armin development policy (unified)
 
 ## Hard rule

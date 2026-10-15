@@ -1,13 +1,14 @@
 ---
 name: create-pr-and-retract
-description: >
-  For every code or config change in this repo, open a pull request via GitHub
-  MCP only (never gh CLI, curl, or tokens). If you later learn the PR is no
-  longer valid, retract it through GitHub MCP as well. Use whenever you are
-  about to commit, push, or land a change, and again whenever a PR you opened
-  becomes invalid.
+description: >-
+  For every code or config change in this repo, open a pull request via GitHub MCP only (never gh CLI, curl, or tokens). If you later learn the PR is no longer valid, retract it through GitHub MCP as well. Use whenever you are about to commit, push, or land a change, and again whenever a PR you opened becomes invalid.
+metadata:
+  version: 1.0.0
+  author: "Armin Dashti"
+  tags: []
+  last_updated: "2026-10-12 09:36:50"
+  uuid: 61b2477e-2bb1-40b2-a342-6d555b1d3e0d
 ---
-
 # Create a PR for every change — retract when invalid
 
 ## Hard rules

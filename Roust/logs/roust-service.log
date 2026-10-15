@@ -1,3 +1,0 @@
-[2026-09-14T05:30:20Z ERROR roust::service] Service failed: enumerate network interfaces for routing: rule hostname:whatismyipaddress.com → ip:10.20.9.54: destination IP 10.20.9.54 is not a default gateway on any local interface
-[2026-09-14T07:04:06Z ERROR roust::service] Service failed: enumerate network interfaces for routing: rule ip:10.10.12.52 → nic:Realtek PCIe GbE Family Controller: destination NIC "Realtek PCIe GbE Family Controller" not found on any local interface
-[2026-09-14T07:04:42Z ERROR roust::service] Service failed: enumerate network interfaces for routing: rule ip:10.10.12.52 → nic:Realtek PCIe GbE Family Controller: destination NIC "Realtek PCIe GbE Family Controller" not found on any local interface
