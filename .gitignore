@@ -152,3 +152,9 @@ graphify-out/
 # keep source files
 !**/src/bin/
 !**/src/bin/**
+.agents/
+.cursor/mcp.json
+.cursor/hooks/
+.cursor/hooks.json
+.cursor/agents/
+.cursor/tools/
